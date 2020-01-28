@@ -1,0 +1,11 @@
+{
+  "name": "dmr-hello-world",
+  "version": "1.0.0",
+  "description": "A simple example of Discriminated Message Routing (DMR) using @encapsule/arccore filter and discriminator RTL's.",
+  "main": "index.js",
+  "author": "Chris Russell <cdr@encapsule.io>",
+  "license": "MIT",
+  "dependencies": {
+    "@encapsule/arccore": "0.1.8"
+  }
+}
